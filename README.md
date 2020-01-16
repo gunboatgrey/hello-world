@@ -1,2 +1,3 @@
 # hello-world
-Learning example
+Github Learning example.
+Retired software engineer.
